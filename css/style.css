@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+.title {
+    font-family: 'Major Mono Display', monospace, sans-serif;
+}
+
+body {
+  font-size: 17px;
+  background-color: black;
+  color:white;
+}
+
+a.dws {
+  color:white;
+  background-color:#303234;
+  padding:5px;
+  border-radius:5px;
+}
+
+.container {
+  font-family: monospace;
+  margin-top: 10%;
+  border-radius: 5px;
+  text-align: center;
+  background-color: gray;
+  padding: 5%;
+  width: 27%;
+}
